@@ -1,0 +1,146 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #008F7A;
+    color: #FBEAFF;
+    display: block;
+    width: 1200px;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+
+nav {
+    background-color: #333;
+    display: flex;
+   
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin-right: 10px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    display: inline-block;
+    padding: 10px 20px;
+    color: #fff; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    background-color: #555; 
+}
+
+section #home{
+    display: flex;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+#home{
+   float: left;
+   height: 20px;
+   width: 500px;
+   margin-top: 10px;
+   font-size: 20px;
+   
+}
+#about-me{
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    
+    padding-left: 150px;
+    margin-top: 300px;
+   
+    margin-right: -10px;
+    margin-left: 500px;
+}
+
+input{
+    width: 100px;
+    background:  #f8b400; 
+    height: 30px;
+    border: 2px solid orangered;
+    margin-top: 10px;
+    color: aliceblue;
+    font-size: 15px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    
+    
+}
+input .hover{
+    color: aliceblue;
+    transition: 0.5s ease-in-out;
+    background: transparent;
+}
+figure{
+    display: flex;
+
+}
+.img{
+   display: flex;
+   height: 200px;
+   width: 400px;
+   margin-right: 20px;
+   margin-top: 20px;
+   margin-left: 200px;
+}
+.img1{
+    display: flex;
+    height: 200px;
+    width: 600px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-left: 200px;
+ }
+ figcaption{
+    display: flex;
+    margin-top: 50px;
+    color:#f8b400;
+    font-size: large;
+    margin-left: 200px;
+    height: 10px;
+    width: 100px;
+ }
+ 
+  
+ 
+main{
+    width: 900px;
+    height: auto;
+    margin: auto;
+    color: aliceblue;
+    position: relative;
+}
+.home{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 10px;
+    font-style: italic;
+
+
+}
+.home p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:  50px;
+    padding-left: 20px;
+    margin-top: 20px;
+
+
+
+}
+
+footer{
+    display: flex;
+    margin-top: 200px;
+}
+
