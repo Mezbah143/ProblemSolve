@@ -58,9 +58,10 @@ section #home{
     
     padding-left: 150px;
     margin-top: 300px;
+    padding-bottom: 50px;
    
-    margin-right: -10px;
-    margin-left: 500px;
+    margin-right: 10px;
+    margin-left: 400px;
 }
 
 input{
