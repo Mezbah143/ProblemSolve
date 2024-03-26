@@ -46,6 +46,7 @@ section #home{
 
 #home{
    float: left;
+   font-family: 'Times New Roman', Times, serif;
    height: 20px;
    width: 500px;
    margin-top: 10px;
@@ -58,7 +59,7 @@ section #home{
     
     padding-left: 150px;
     margin-top: 300px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
    
     margin-right: 10px;
     margin-left: 400px;
